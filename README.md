@@ -126,3 +126,10 @@ Dynamic pricing strategy Offering coupons and cashback incentives directly to cu
 
 2. DAX
 
+# About Me
+
+I am passionate about data analytics and harnessing the power of visualization to drive data-driven decisions. Completing the Power BI course has expanded my skillset, enabling me to provide valuable insights and make a meaningful impact.
+
+If you have any feedback, suggestions, or would like to connect to discuss data analytics or Power BI further, please feel free to reach out!
+
+Email: vuyyalavijaykumar@gmail.com linkdin: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a 

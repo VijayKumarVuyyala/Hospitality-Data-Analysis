@@ -132,4 +132,4 @@ I am passionate about data analytics and harnessing the power of visualization t
 
 If you have any feedback, suggestions, or would like to connect to discuss data analytics or Power BI further, please feel free to reach out!
 
-Email: vuyyalavijaykumar@gmail.com linkdin: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a 
+Email: vuyyalavijaykumar@gmail.com Linkedin: www.linkedin.com/in/vijay-kumar-vuyyala-1b459612a 
